@@ -1,4 +1,3 @@
-import Vector
 class Matriz:
     def __init__(self, data) -> None:
         pass
